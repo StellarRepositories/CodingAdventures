@@ -1,0 +1,14 @@
+C:\Users\stell\Programming\codewars1\bin\Debug\net6.0\codewars1.exe
+C:\Users\stell\Programming\codewars1\bin\Debug\net6.0\codewars1.deps.json
+C:\Users\stell\Programming\codewars1\bin\Debug\net6.0\codewars1.runtimeconfig.json
+C:\Users\stell\Programming\codewars1\bin\Debug\net6.0\codewars1.dll
+C:\Users\stell\Programming\codewars1\bin\Debug\net6.0\codewars1.pdb
+C:\Users\stell\Programming\codewars1\obj\Debug\net6.0\codewars1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stell\Programming\codewars1\obj\Debug\net6.0\codewars1.AssemblyInfoInputs.cache
+C:\Users\stell\Programming\codewars1\obj\Debug\net6.0\codewars1.AssemblyInfo.cs
+C:\Users\stell\Programming\codewars1\obj\Debug\net6.0\codewars1.csproj.CoreCompileInputs.cache
+C:\Users\stell\Programming\codewars1\obj\Debug\net6.0\codewars1.dll
+C:\Users\stell\Programming\codewars1\obj\Debug\net6.0\refint\codewars1.dll
+C:\Users\stell\Programming\codewars1\obj\Debug\net6.0\codewars1.pdb
+C:\Users\stell\Programming\codewars1\obj\Debug\net6.0\codewars1.genruntimeconfig.cache
+C:\Users\stell\Programming\codewars1\obj\Debug\net6.0\ref\codewars1.dll
