@@ -7,7 +7,7 @@ I use Visual Studio 2022 with .Net 6 or .NET 8. Newer projects will always be in
 Projects range from basic console applications to solve small problems, e.g. leetcode, to Blazor applications for learning the ins and outs of the Blazor framework. 
 
 Everything you find in here is written by me, without the use of AIs like Github Copilot or ChatGPT. 
-
+Even though those are great tools for productivity, they shortcut the important part where learning happens (in my opinion) so i avoid them when approaching new concepts. 
 
 
 
