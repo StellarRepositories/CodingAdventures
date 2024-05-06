@@ -1,0 +1,7 @@
+C:\Users\stell\Programming\EventAlgebra\bin\Debug\EventAlgebra.exe.config
+C:\Users\stell\Programming\EventAlgebra\bin\Debug\EventAlgebra.exe
+C:\Users\stell\Programming\EventAlgebra\bin\Debug\EventAlgebra.pdb
+C:\Users\stell\Programming\EventAlgebra\obj\Debug\EventAlgebra.csproj.AssemblyReference.cache
+C:\Users\stell\Programming\EventAlgebra\obj\Debug\EventAlgebra.csproj.CoreCompileInputs.cache
+C:\Users\stell\Programming\EventAlgebra\obj\Debug\EventAlgebra.exe
+C:\Users\stell\Programming\EventAlgebra\obj\Debug\EventAlgebra.pdb
