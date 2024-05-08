@@ -1,0 +1,2 @@
+I tried out some thing relating to authentication in Blazor. Using this, I show the current user and their pc´s name; additionally, certain elements are hidden when the user doesnt have the correct policies.
+This is useful to show users only the contents that they should see, based on company policy (e.g. AD). Because permissions are referenced from a central entity, any changes made to that entity will result in changes in all web-apps written in this way.
